@@ -101,7 +101,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Clone the repository and run the notebooks in order:
 
 ```bash
-git clone <https://github.com/rashmip2102/The-Titanic-.git>
+git clone https://github.com/rashmip2102/The-Titanic-.git
 cd titanic-analysis
 jupyter notebook
 ```
